@@ -21,5 +21,8 @@ scanraspberrypi();
 如果有更多疑问，请私信我。新浪微博 @codetyphon
 ----------------------------------------------
 
-http://www.weibo.com/codetyphon ##http://www.codetyphon.com
------------------------------------------------------------
+http://www.weibo.com/codetyphon
+-------------------------------
+
+http://www.codetyphon.com
+-------------------------
