@@ -1,0 +1,19 @@
+{
+  "name": "scanraspberrypi",
+  "version": "1.0.0",
+  "description": "find scanraspberrypi in wlan (在自己的机器上运行，就可以知道同网段中树莓派的ip地址。)",
+  "main": "scanraspberrypi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://codetyphon@github.com/codetyphon/scanraspberrypi.git"
+  },
+  "author": "codetyphon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codetyphon/scanraspberrypi/issues"
+  },
+  "homepage": "https://github.com/codetyphon/scanraspberrypi#readme"
+}
